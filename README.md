@@ -1,4 +1,4 @@
-Start redis using `redis-server`
+# Start redis using `redis-server`
 Run using mvn spring-boot:run
 
 Access Page at http://localhost:8080
